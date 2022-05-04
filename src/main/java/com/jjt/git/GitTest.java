@@ -10,6 +10,9 @@ public class GitTest {
         System.out.println("hot-fix test");
 
         System.out.println("本地库的修改");
+        
+        
+        System.out.println("远程库的修改");
 
     }
 }
